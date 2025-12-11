@@ -50,10 +50,11 @@ Here are a few projects that showcase my full-stack and backend capabilities:
 
   
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=habdullhigh&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Abdullah's GitHub Stats" />
   
+  <img src="https://github-readme-stats.vercel.app/api?username=habdullhigh&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Abdullah's GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habdullhigh&layout=compact&langs_count=6&theme=nord&hide_border=true" alt="Top Languages" />
 
   <img src="https://github-profile-trophy.vercel.app/?username=habdullhigh&theme=gruvbox&no-border=true" alt="GitHub Trophies" />
+
 </p>
