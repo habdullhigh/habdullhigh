@@ -48,8 +48,8 @@ Here are a few projects that showcase my full-stack and backend capabilities:
 
 ---
 
+  [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=habdullhigh)](https://github.com/FajarKim/github-readme-profile)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Abdullah's GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=6&theme=nord&hide_border=true" alt="Top Languages" />
   
