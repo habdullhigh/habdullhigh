@@ -48,12 +48,12 @@ Here are a few projects that showcase my full-stack and backend capabilities:
 
 ---
 
-  [![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=habdullhigh)](https://github.com/FajarKim/github-readme-profile)
+  
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&langs_count=6&theme=nord&hide_border=true" alt="Top Languages" />
-  
-  <img src="https://spotify-github-profile.vercel.app/api/card?theme=spotify&background_color=191919&title_color=1db954&border_color=1db954" alt="Spotify Listening Status" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=gruvbox&no-border=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=habdullhigh&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Abdullah's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habdullhigh&layout=compact&langs_count=6&theme=nord&hide_border=true" alt="Top Languages" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=habdullhigh&theme=gruvbox&no-border=true" alt="GitHub Trophies" />
 </p>
