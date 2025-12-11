@@ -32,8 +32,8 @@ My primary tools and technologies for building robust applications:
 
 Here are a few projects that showcase my full-stack and backend capabilities:
 
-* **[SafeBridge Africa](http://safebridge.africa/):** Led the development of the **entire backend** infrastructure and contributed significantly (approx. 30%) to the frontend, focusing on robust data handling and API design.
-* **[TrediBooks](https://tredibooks.com/):** Responsible for the **complete backend development**, including data modeling and core application logic.
+* **[SafeBridge Africa](http://safebridge.africa/):** Designed and Developed 90% of the ** backend** infrastructure and contributed significantly (approx. 30%) to the frontend, focusing on robust data handling and API design.
+* **[TrediBooks](https://tredibooks.com/):** Responsible for 90% of the **complete backend development**, including data modeling and core application logic.
 * **[UniSpendTracker](https://unispendtracker.com/):** Developed and integrated the **payment processing system**, ensuring secure and reliable transaction handling.
 * **Talent Spotlighting:** Proudly featured by my talent management company, **[StudentPaddy](https://studentpaddy.com)**, for my contributions and growth.
 
