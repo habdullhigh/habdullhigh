@@ -21,7 +21,7 @@ My primary tools and technologies for building robust applications:
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Backend & Core** | **Laravel, TypeScript, PHP, Python, Node.js** |
+| **Backend & Core** | **Laravel, TypeScript, PHP, Python, Node.js, Nest.js** |
 | **Frontend & UI** | **React, Vue.js, JavaScript, Inertia.js, TailwindCSS** |
 | **Databases** | **PostgreSQL, MySQL, MongoDB** |
 | **Tools & DevOps** | **Docker, Git, NPM, Apache** |
